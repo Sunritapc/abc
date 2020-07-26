@@ -1,0 +1,11 @@
+git clone https://github.com/Sunritapc/abc.git	    /*to clone my folder from git hub*/
+
+git add --all	   /*to add all the files from the repository folder*/
+
+git commit -m "msg"	/*to commit*/
+
+git push	/*to push all the files in git hub*/
+
+git pull	/*to update the change done by other members in the folder on git hub*/
+
+
